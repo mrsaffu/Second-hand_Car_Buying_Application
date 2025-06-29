@@ -83,7 +83,10 @@ Visit: [http://localhost:5173](http://localhost:5173)
 
 **Safwan Ahmad**
 Frontend Developer with a strong focus on React and Firebase applications
+
 GitHub: [https://github.com/mrsaffu](https://github.com/mrsaffu)
+
+
 LinkedIn: [https://www.linkedin.com/in/mrrsaffu/](https://www.linkedin.com/in/mrrsaffu/)
 
 ## License
